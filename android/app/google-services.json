@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831870560852",
+    "firebase_url": "https://rplsmartangkot.firebaseio.com",
+    "project_id": "rplsmartangkot",
+    "storage_bucket": "rplsmartangkot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831870560852:android:95e810e162cd3751",
+        "android_client_info": {
+          "package_name": "com.example.smartangkotrpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831870560852-e1rmnrkmmu5tt01i7n6acnjjphgd21us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUu_p9TFSXDx_fZcqaH4B9_HeHZys1MiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831870560852-e1rmnrkmmu5tt01i7n6acnjjphgd21us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
